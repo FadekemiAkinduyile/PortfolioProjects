@@ -1,5 +1,5 @@
 # SQL-Data-Projects
-Data Cleaning, Analysis and Visualization
+Data Cleaning and Analysis
 
 **Dataset**
 
