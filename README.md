@@ -1,5 +1,8 @@
 # SQL-Data-Projects
-Data Cleaning and Analysis
+
+**Data Cleaning and Analysis**
+
+I performed data exploration and analysis using these SQL queries on the COVID-19 dataset
 
 **Dataset**
 
