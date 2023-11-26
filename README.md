@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 
 **Acknowledgement:**
 
-The knowledge applied in this project were learned from Alex The Analyst's tutorial. 
+The knowledge applied in this project was learned from Alex The Analyst's tutorial. 
 
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2
 
